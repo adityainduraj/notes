@@ -1,0 +1,2 @@
+-  Self-explanatory, imagine the 'isPalindrome' problem.
+- Leetcode Problems to Practice - 167, 15, 11

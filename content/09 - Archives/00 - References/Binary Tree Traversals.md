@@ -1,0 +1,8 @@
+- Preorder, Postorder, Inorder and Level Order
+- LOT is useful for level by level traversal starting from the root node, usually implemented using queue
+- Goal is to identify which traversal will be best for the given situation. 
+	- To retrieve the values of a binary search tree in sorted order - INORDER
+	- To create a copy of a tree (serialization) - PREORDER
+	- When you want to process child nodes before the parent, like in deletion - POSTORDER
+	- When you need to explore all nodes at current level before moving on to the next - LOT
+- [[Leetcode Practice]] for each traversal - 230, 257, 124, 107

@@ -1,0 +1,7 @@
+- K largest, smallest or most frequent elements in an array
+- Avoid sorting
+- Example - To find 3 largest elements in an array. 
+- We add first 3 elements to minheap. Then if nextelement is greater, pop the top element from the heap and push the new element. 
+- At the end, the heap will contain 3 largest elements
+- For K-Largest use a minheap, for K-Smallest use a maxheap.
+- [[Leetcode Practice]] -  215, 327, 373
