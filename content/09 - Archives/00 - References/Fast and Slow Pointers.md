@@ -1,6 +1,0 @@
-- Variant of two pointers approach, moving 2 pointers at different speeds
-- Start by placing both slow and fast pointers at the head of a linked list. 
-- Move the slow pointer **one** node at a time and the fast pointer **two** nodes at a time. 
-- If there is a cycle, the two pointers will eventually meet
-- This technique can also find the middle node of a linked list **in one pass**. When the fast pointer reaches the end, the slow pointer will be at the middle.
-- [[Leetcode Practice]] - 141, 202, 287

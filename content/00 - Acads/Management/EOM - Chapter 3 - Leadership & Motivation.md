@@ -242,7 +242,7 @@ A **committee** is a group of persons to whom, as a group, some matter is commit
 5. Can lead to a situation in which few persons impose their will on the majority. 
 
 ## Groups
-Two or more people acting independently in a unified manner toward achieving common goals. 
+Two or more people acting interdependently in a unified manner toward achieving common goals. 
 ### Characteristics
 - Group members share one or more **common goals**. 
 - Group members normally require **interaction and communication** among members.
